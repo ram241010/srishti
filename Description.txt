@@ -7,4 +7,4 @@ https://discord.com/oauth2/authorize?client_id=1279696097383677976
 https://discord.com/oauth2/authorize?client_id=1279696097383677976&permissions=1166004201315712&integration_type=0&scope=bot
 
 
-Add This Ai bot in your discor And Enjoy
+Add This Ai bot in your discord And Enjoy
